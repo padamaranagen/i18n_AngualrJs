@@ -1,0 +1,49 @@
+{
+  "PAGE_TITLE": "i18n用于AngularJS应用程序",
+  "PAGE_CONTENT": "如何在没有使用angular-translate重新加载页面的情况下翻译AngularJS应用程序",
+
+
+  "views.Fork me on": "叉我吧",
+
+  "views.index.Home": "家",
+  "views.index.About": "关于",
+  "views.index.Contact": "联系",
+  "views.index.from the Yeoman team": "来自Yeoman队",
+
+  "views.main.i18n for your AngularJS applications": "i18n用于AngularJS应用程序",
+  "views.main.I'm Yeoman": "我是Yeoman",
+  "views.main.Always a pleasure scaffolding your apps.": "总是很高兴脚手架你的应用程序。",
+  "views.main.Splendid!": "灿烂！",
+  "views.main.HTML5 Boilerplate": "HTML5 Boilerplate",
+  "views.main.HTML5 Boilerplate description": "HTML5 Boilerplate是一个专业的前端模板，用于构建快速，健壮且适应性强的Web应用程序或站点。",
+  "views.main.Angular": "角",
+  "views.main.Angular description": "AngularJS是一个用于构建最适合您的应用程序开发的框架的工具集。",
+  "views.main.Karma": "Karma",
+  "views.main.Karma description": "JavaScript的壮观测试赛跑者。",
+
+  "views.about.Author of": "作者",
+  "views.about.Have successful experience...": "从头开始创建移动Web应用程序的成功经验超过50k。下载（作为经理，开发人员，测试人员和发布者）。",
+  "views.about.JS, HTML and CSS enthusiast...": "JS，HTML和CSS发烧友。享受生活:)",
+
+  
+  "views.contacts.My": "我的",
+  "views.main.para1":"我们深受世界顶尖大学，企业和品牌的信赖。我们的客户依赖我们来帮助他们在面临持续挑战时保持和发展业务。由于创新仍然是竞争力的核心，因此为这些创新者提供他们可以信赖的洞察力比以往任何时候都更为关键。",
+  "views.main.para2":"我们的独特定位是在整个创新生命周期中为企业提供支持，并继续积极投资，以增强现有解决方案并开发新解决方案。我们广泛的值得信赖的行业领先品牌包括Web of Science，Cortellis，Derwent，CompuMark，MarkMonitor和Techstreet等。",
+  "views.main.Display Some Work on the Home Page Portfolio":"显示主页组合中的一些工作",
+
+  "views.about.ourteam":"我们的队伍",
+  "views.about.ourcustomer":"我们的顾客",
+  "views.about.nagendra":"Nagendra",
+  "views.about.vikash":"Vikash",
+  "views.about.akhila":"Akhila",
+  "views.about.ajay":"Ajay",
+  "views.about.vijay":"Vijay",
+  "views.about.pavan":"Pavan",
+  "views.about.jobtitle":"工程师",
+  "views.about.jobdesc":"这个团队成员做了什么？保持简短！这也是社交链接的好地方！",
+
+  
+  "views.contact.title":"联系",
+
+  "directives.language-select.Language": "语言"
+}
